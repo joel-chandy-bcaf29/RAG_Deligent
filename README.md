@@ -45,8 +45,7 @@ conda install -c pytorch pytorch cpuonly -y   # optional if torch not installed
 ### 3. Run the Flask app
 python app.py
 
-When initialized, open your browser at:
-http://127.0.0.1:5000
+When initialized, open browser 
 
 ### Example Questions
 What are the recognition features of submarines?
