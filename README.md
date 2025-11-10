@@ -55,9 +55,8 @@ What are the distinguishing characteristics of aircraft?
 
 ### Project Structure
 naval_rag_assistant/
-│
-├── app.py               # Flask web interface
-├── rag_chatbot.py       # Core RAG logic (PDF → embeddings → answers)
-├── templates/
-│   └── index.html       # Front-end UI (Bootstrap)
-└── 14243_ch13.pdf       # Knowledge base document
+    app.py               # Flask web interface
+    rag_chatbot.py       # Core RAG logic (PDF → embeddings → answers)
+    templates/
+      index.html       # Front-end UI (Bootstrap)
+    14243_ch13.pdf       # Knowledge base document
