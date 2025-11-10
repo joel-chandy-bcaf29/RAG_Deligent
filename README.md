@@ -35,8 +35,8 @@ All processing happens **locally** — no external APIs or internet access requi
 ## 🚀 Setup & Usage
 
 ### 1. Create and activate environment
-conda create -n rag python=3.10 -y
-conda activate rag
+- conda create -n rag python=3.10 -y
+- conda activate rag
 
 ### 2. Install dependencies
 pip install flask sentence-transformers transformers PyPDF2
